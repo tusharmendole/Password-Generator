@@ -1,0 +1,39 @@
+@media (max-width: 767px) {
+    .passwordBox{
+        margin-top: 35vh;
+        height: 25vh;
+        width: 45vh;
+    }
+
+    h3{
+        font-size: 25px;
+        color: rgb(255, 255, 255);
+    }
+
+    input{
+        margin-left: 16px;
+        margin-top: 2vh;
+        height: 40px;
+        width: 40vh;
+        border-radius: 5px;
+        color: black;
+        font-family:   'Helvetica Neue', sans-serif ;
+        border: 0px;
+        font-size: 15px;
+        
+    }
+
+    button{
+        height: 45px;
+        width: 175px;
+        color: black;
+        border-radius: 5px;
+        background-color: rgb(148, 114, 181);
+        margin-left: 25%;
+        border: 0px;
+        gap: 2px;
+        font-size: 15px;
+        margin-bottom: 0vh;
+        /* text-align:left; */
+    }
+}
